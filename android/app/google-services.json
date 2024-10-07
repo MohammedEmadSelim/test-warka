@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "677008493160",
+    "project_id": "school-alartaqa",
+    "storage_bucket": "school-alartaqa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677008493160:android:a1b890711ebc537a8589dd",
+        "android_client_info": {
+          "package_name": "com.example.test_warkaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677008493160-5ljssa1hof9dlqml9c8kh9gjlo09s3so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmkVvDH2xXovNs_XjVAMJYA_7pb2Zdao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677008493160-5ljssa1hof9dlqml9c8kh9gjlo09s3so.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677008493160-cl99vpuqotjv5ehudoafk297s0lsfrjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "knights",
+                "app_store_id": "54546954564"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677008493160:android:50c8c942d05bb9c58589dd",
+        "android_client_info": {
+          "package_name": "com.warkaa.warkaaSchool2024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677008493160-5ljssa1hof9dlqml9c8kh9gjlo09s3so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmkVvDH2xXovNs_XjVAMJYA_7pb2Zdao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677008493160-5ljssa1hof9dlqml9c8kh9gjlo09s3so.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677008493160-cl99vpuqotjv5ehudoafk297s0lsfrjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "knights",
+                "app_store_id": "54546954564"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
